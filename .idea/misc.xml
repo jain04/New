@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/cartoon.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/coolpad.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/fragment_first.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/headerlayout.xml" value="0.176" />
+        <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/loader.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/layout/reslayout.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/menu/bottomnavigation.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/New/app/src/main/res/menu/navigationdrawer.xml" value="0.13020833333333334" />
